@@ -1,7 +1,12 @@
 {
-  "name": "world-app-ts",
+  "name": "world",
   "homepage": "https://pcs4kids.github.io/world",
-  "version": "0.1.0",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pcs4kids/world.git"
+  },
+  "license": "MIT",
   "private": true,
   "dependencies": {
     "@pcs4kids/basic-custom-map": "1.0.0",
@@ -13,7 +18,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d build -r git@github.com:PCs4KIDS/world.git",
     "start": "react-scripts-ts start",
     "build": "react-scripts-ts build",
     "test": "react-scripts-ts test --env=jsdom",
