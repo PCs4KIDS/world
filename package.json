@@ -10,7 +10,7 @@
   "private": true,
   "dependencies": {
     "@pcs4kids/basic-custom-map": "1.0.0",
-    "@pcs4kids/round-the-world": "1.1.0",
+    "@pcs4kids/round-the-world": "1.2.0",
     "gh-pages": "2.0.1",
     "react": "16.6.1",
     "react-dom": "16.6.1",
