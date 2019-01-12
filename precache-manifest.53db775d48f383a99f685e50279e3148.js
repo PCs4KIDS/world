@@ -4,12 +4,12 @@ self.__precacheManifest = [
     "url": "/world/static/media/animal-cheetah.e6bb236a.png"
   },
   {
-    "revision": "41f89db490113f20c594",
-    "url": "/world/static/css/main.0d1670de.chunk.css"
+    "revision": "6e4b4e35fe8323bfc631",
+    "url": "/world/static/css/main.642cacc9.chunk.css"
   },
   {
-    "revision": "e918cc0ec0fe4ae3229c",
-    "url": "/world/static/js/1.e918cc0e.chunk.js"
+    "revision": "9a3a1b649152128f5e69",
+    "url": "/world/static/js/1.9a3a1b64.chunk.js"
   },
   {
     "revision": "0ae1b2e3c8e1d4a2d624",
@@ -24,8 +24,8 @@ self.__precacheManifest = [
     "url": "/world/static/media/animal-bear.cbfe55b8.png"
   },
   {
-    "revision": "41f89db490113f20c594",
-    "url": "/world/static/js/main.41f89db4.chunk.js"
+    "revision": "6e4b4e35fe8323bfc631",
+    "url": "/world/static/js/main.6e4b4e35.chunk.js"
   },
   {
     "revision": "284383c4eed641c4b7f7a71ea386d6a3",
@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/world/static/media/map.00d0fac0.png"
   },
   {
-    "revision": "496ce66afbe58b6f667f8adb665d938b",
+    "revision": "b76071e29f78af0c44f86a1293e3d31b",
     "url": "/world/index.html"
   }
 ];
