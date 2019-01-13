@@ -1,3 +1,4 @@
+import 'bootstrap/dist/css/bootstrap.min.css';
 import * as React from 'react';
 import ActivityManager from './ActivityManager';
 import './App.css';
